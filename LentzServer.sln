@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "LentzServer", "LentzServer\LentzServer.njsproj", "{29A1EBB3-B9F4-4B5B-AE5B-2D8BC5428CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29A1EBB3-B9F4-4B5B-AE5B-2D8BC5428CF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29A1EBB3-B9F4-4B5B-AE5B-2D8BC5428CF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29A1EBB3-B9F4-4B5B-AE5B-2D8BC5428CF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29A1EBB3-B9F4-4B5B-AE5B-2D8BC5428CF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E41B84C-ADD9-436F-B25B-4C36A2071ED1}
+	EndGlobalSection
+EndGlobal

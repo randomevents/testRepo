@@ -1,0 +1,16 @@
+{
+  "name": "lentz-node-1",
+  "version": "0.0.0",
+  "description": "LentzServer",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "helmet": "^5.0.2",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34",
+    "morgan": "^1.10.0"
+  }
+}
